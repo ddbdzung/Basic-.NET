@@ -1,0 +1,15 @@
+G:\Workplace\Training\CSharp\CSharpCanBan\TamGiac\bin\Debug\net6.0\TamGiac.exe
+G:\Workplace\Training\CSharp\CSharpCanBan\TamGiac\bin\Debug\net6.0\TamGiac.deps.json
+G:\Workplace\Training\CSharp\CSharpCanBan\TamGiac\bin\Debug\net6.0\TamGiac.runtimeconfig.json
+G:\Workplace\Training\CSharp\CSharpCanBan\TamGiac\bin\Debug\net6.0\TamGiac.dll
+G:\Workplace\Training\CSharp\CSharpCanBan\TamGiac\bin\Debug\net6.0\TamGiac.pdb
+G:\Workplace\Training\CSharp\CSharpCanBan\TamGiac\obj\Debug\net6.0\TamGiac.csproj.AssemblyReference.cache
+G:\Workplace\Training\CSharp\CSharpCanBan\TamGiac\obj\Debug\net6.0\TamGiac.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workplace\Training\CSharp\CSharpCanBan\TamGiac\obj\Debug\net6.0\TamGiac.AssemblyInfoInputs.cache
+G:\Workplace\Training\CSharp\CSharpCanBan\TamGiac\obj\Debug\net6.0\TamGiac.AssemblyInfo.cs
+G:\Workplace\Training\CSharp\CSharpCanBan\TamGiac\obj\Debug\net6.0\TamGiac.csproj.CoreCompileInputs.cache
+G:\Workplace\Training\CSharp\CSharpCanBan\TamGiac\obj\Debug\net6.0\TamGiac.dll
+G:\Workplace\Training\CSharp\CSharpCanBan\TamGiac\obj\Debug\net6.0\refint\TamGiac.dll
+G:\Workplace\Training\CSharp\CSharpCanBan\TamGiac\obj\Debug\net6.0\TamGiac.pdb
+G:\Workplace\Training\CSharp\CSharpCanBan\TamGiac\obj\Debug\net6.0\TamGiac.genruntimeconfig.cache
+G:\Workplace\Training\CSharp\CSharpCanBan\TamGiac\obj\Debug\net6.0\ref\TamGiac.dll

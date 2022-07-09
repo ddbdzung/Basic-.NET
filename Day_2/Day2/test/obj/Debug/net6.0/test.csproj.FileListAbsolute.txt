@@ -1,0 +1,15 @@
+G:\Workplace\Training\CSharp\Day_2\Day2\test\bin\Debug\net6.0\test.exe
+G:\Workplace\Training\CSharp\Day_2\Day2\test\bin\Debug\net6.0\test.deps.json
+G:\Workplace\Training\CSharp\Day_2\Day2\test\bin\Debug\net6.0\test.runtimeconfig.json
+G:\Workplace\Training\CSharp\Day_2\Day2\test\bin\Debug\net6.0\test.dll
+G:\Workplace\Training\CSharp\Day_2\Day2\test\bin\Debug\net6.0\test.pdb
+G:\Workplace\Training\CSharp\Day_2\Day2\test\obj\Debug\net6.0\test.csproj.AssemblyReference.cache
+G:\Workplace\Training\CSharp\Day_2\Day2\test\obj\Debug\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workplace\Training\CSharp\Day_2\Day2\test\obj\Debug\net6.0\test.AssemblyInfoInputs.cache
+G:\Workplace\Training\CSharp\Day_2\Day2\test\obj\Debug\net6.0\test.AssemblyInfo.cs
+G:\Workplace\Training\CSharp\Day_2\Day2\test\obj\Debug\net6.0\test.csproj.CoreCompileInputs.cache
+G:\Workplace\Training\CSharp\Day_2\Day2\test\obj\Debug\net6.0\test.dll
+G:\Workplace\Training\CSharp\Day_2\Day2\test\obj\Debug\net6.0\refint\test.dll
+G:\Workplace\Training\CSharp\Day_2\Day2\test\obj\Debug\net6.0\test.pdb
+G:\Workplace\Training\CSharp\Day_2\Day2\test\obj\Debug\net6.0\test.genruntimeconfig.cache
+G:\Workplace\Training\CSharp\Day_2\Day2\test\obj\Debug\net6.0\ref\test.dll

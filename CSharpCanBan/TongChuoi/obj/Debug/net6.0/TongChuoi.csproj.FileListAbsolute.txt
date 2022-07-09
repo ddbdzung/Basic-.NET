@@ -1,0 +1,15 @@
+G:\Workplace\Training\CSharp\CSharpCanBan\TongChuoi\bin\Debug\net6.0\TongChuoi.exe
+G:\Workplace\Training\CSharp\CSharpCanBan\TongChuoi\bin\Debug\net6.0\TongChuoi.deps.json
+G:\Workplace\Training\CSharp\CSharpCanBan\TongChuoi\bin\Debug\net6.0\TongChuoi.runtimeconfig.json
+G:\Workplace\Training\CSharp\CSharpCanBan\TongChuoi\bin\Debug\net6.0\TongChuoi.dll
+G:\Workplace\Training\CSharp\CSharpCanBan\TongChuoi\bin\Debug\net6.0\TongChuoi.pdb
+G:\Workplace\Training\CSharp\CSharpCanBan\TongChuoi\obj\Debug\net6.0\TongChuoi.csproj.AssemblyReference.cache
+G:\Workplace\Training\CSharp\CSharpCanBan\TongChuoi\obj\Debug\net6.0\TongChuoi.GeneratedMSBuildEditorConfig.editorconfig
+G:\Workplace\Training\CSharp\CSharpCanBan\TongChuoi\obj\Debug\net6.0\TongChuoi.AssemblyInfoInputs.cache
+G:\Workplace\Training\CSharp\CSharpCanBan\TongChuoi\obj\Debug\net6.0\TongChuoi.AssemblyInfo.cs
+G:\Workplace\Training\CSharp\CSharpCanBan\TongChuoi\obj\Debug\net6.0\TongChuoi.csproj.CoreCompileInputs.cache
+G:\Workplace\Training\CSharp\CSharpCanBan\TongChuoi\obj\Debug\net6.0\TongChuoi.dll
+G:\Workplace\Training\CSharp\CSharpCanBan\TongChuoi\obj\Debug\net6.0\refint\TongChuoi.dll
+G:\Workplace\Training\CSharp\CSharpCanBan\TongChuoi\obj\Debug\net6.0\TongChuoi.pdb
+G:\Workplace\Training\CSharp\CSharpCanBan\TongChuoi\obj\Debug\net6.0\TongChuoi.genruntimeconfig.cache
+G:\Workplace\Training\CSharp\CSharpCanBan\TongChuoi\obj\Debug\net6.0\ref\TongChuoi.dll
